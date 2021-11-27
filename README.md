@@ -7,7 +7,6 @@
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=mehmetkurt&show_icons=true&count_private=true&theme=radical" alt="Mehmet KURT's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkurt" alt="My Top Langs" />
 </p>
 
 
