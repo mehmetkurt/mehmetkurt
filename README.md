@@ -3,8 +3,6 @@
 <a href="https://www.twitter.com/fikirmuptelasi"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mehmetkurt"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/truefalseman"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 <a href="https://www.youtube.com/codeislifes"><img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 
-## 📌 GitHub Stats And Top Languages
-
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=mehmetkurt&show_icons=true&count_private=true&theme=radical" alt="Mehmet KURT's github stats" />
 </p>
