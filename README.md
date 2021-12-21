@@ -29,3 +29,5 @@
 <code><img height="75" src="https://cdn.worldvectorlogo.com/logos/adobe-experience-design-1.svg"></code>
 <code><img height="75" src="https://www.nopcommerce.com/images/nopLogos/nopCommerce/nopcommerce_logo.svg"></code>
 
+<p>nopCommerce Consultancy</p>
+<p>nopCommerce Danışmanlık için mehmet.kurt@outlook.com adresine mail atmanız yeterli.</p>
