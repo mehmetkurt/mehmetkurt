@@ -31,3 +31,5 @@
 
 <p>nopCommerce Consultancy</p>
 <p>nopCommerce Danışmanlık için mehmet.kurt@outlook.com adresine mail atmanız yeterli.</p>
+
+![](https://komarev.com/ghpvc/?username=mehmetkurt&color=red)
