@@ -21,7 +21,6 @@
 <br><br><br>
 <code><img height="75" src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg"></code>
 <code><img height="75" src="https://cdn.worldvectorlogo.com/logos/docker.svg"></code>
-<code><img height="75" src="https://cdn.worldvectorlogo.com/logos/devops-2.svg"></code>
 <code><img height="75" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg"></code>
 <code><img height="75" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs6.svg"></code>
 <code><img height="75" src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cs6.svg"></code>
