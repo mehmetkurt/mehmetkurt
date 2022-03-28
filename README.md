@@ -18,9 +18,8 @@
 <code><img height="75" src="https://cdn.worldvectorlogo.com/logos/redis.svg"></code>
 <code><img height="75" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"></code>
 <code><img height="75" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"></code>
-<code><img height="75" src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg"></code>
-<code><img height="75" src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg"></code>
 <br><br><br>
+<code><img height="75" src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg"></code>
 <code><img height="75" src="https://cdn.worldvectorlogo.com/logos/docker.svg"></code>
 <code><img height="75" src="https://cdn.worldvectorlogo.com/logos/devops-2.svg"></code>
 <code><img height="75" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg"></code>
