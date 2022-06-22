@@ -28,7 +28,7 @@
 <code><img height="75" src="https://www.nopcommerce.com/images/nopLogos/nopCommerce/nopcommerce_logo.svg"></code>
 
 <p>nopCommerce Consultancy</p>
-<p>nopCommerce Danışmanlık için mehmet.kurt@outlook.com adresine mail atmanız yeterli.</p>
+<p>For nopCommerce Consulting, just send an e-mail to mehmet.kurt[at]outlook.com</p>
 
 ![](https://komarev.com/ghpvc/?username=mehmetkurt&color=red)
 
