@@ -22,8 +22,32 @@
 <code><img height="75" src="https://cdn.worldvectorlogo.com/logos/adobe-experience-design-1.svg"></code>
 <code><img height="75" src="https://www.nopcommerce.com/images/nopLogos/nopCommerce/nopcommerce_logo.svg"></code>
 
-<p>nopCommerce Consultancy</p>
-<p>For nopCommerce Consulting, just send an e-mail to mehmet.kurt[at]outlook.com</p>
+<p>I offer consultancy services in various technologies and platforms, specializing in:</p>
+
+### nopCommerce
+As a nopCommerce expert, I provide consulting and development services for e-commerce projects, leveraging the nopCommerce platform to create scalable and feature-rich online stores.
+
+### Smartstore
+I offer consultancy and development services for Smartstore projects, helping businesses build and optimize their online stores for success in the e-commerce market.
+
+### Grandnode
+With expertise in Grandnode, I provide consulting and development services to businesses looking to leverage this platform for their e-commerce needs, ensuring efficient and effective online store operations.
+
+### Umbraco
+I offer consultancy services for Umbraco projects, assisting businesses in implementing and optimizing Umbraco-based solutions for their content management and e-commerce requirements.
+
+### C# & Asp.Net Core
+With proficiency in C# and Asp.Net Core, I provide consulting services for businesses seeking to develop robust and scalable web applications, ensuring efficient and reliable software solutions.
+
+### Open Source Projects
+- **nopCommerce**: Open-source e-commerce platform based on ASP.NET Core.
+- **Smartstore**: Open-source e-commerce platform based on ASP.NET MVC.
+- **Grandnode**: Open-source e-commerce platform based on ASP.NET Core and MongoDB.
+
+### Training & Education
+In addition to consultancy services, I also provide professional training and education for each project, empowering teams with the knowledge and skills needed for successful project implementation and maintenance. 
+
+For consultancy inquiries and project collaborations, feel free to reach out to me at mehmet.kurt[at]outlook.com. More information about training and education services can be found on [Code is Life](https://www.codeislife.com.tr).
 
 ![](https://komarev.com/ghpvc/?username=mehmetkurt&color=red)
 
