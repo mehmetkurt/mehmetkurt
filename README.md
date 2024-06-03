@@ -46,6 +46,9 @@ With proficiency in C# and Asp.Net Core, I provide consulting services for busin
 ### Training & Education
 In addition to consultancy services, I also provide professional training and education for each project, empowering teams with the knowledge and skills needed for successful project implementation and maintenance. 
 
+### Remote Work Opportunities
+I have a network of talented developers in Turkey who have undergone training with Code is Life and are actively seeking remote work opportunities. If you're looking to hire remote developers, I can help connect you with skilled professionals ready to contribute to your projects.
+
 For consultancy inquiries and project collaborations, feel free to reach out to me at mehmet.kurt[at]outlook.com. More information about training and education services can be found on [Code is Life](https://www.codeislife.com.tr).
 
 ![](https://komarev.com/ghpvc/?username=mehmetkurt&color=red)
