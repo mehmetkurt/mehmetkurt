@@ -9,7 +9,6 @@
 <code><img height="75" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></code>
 <code><img height="75" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
 <code><img height="75" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></code>
-<code><img height="75" src="https://cdn.worldvectorlogo.com/logos/elastic-elasticsearch.svg"></code>
 <code><img height="75" src="https://cdn.worldvectorlogo.com/logos/redis.svg"></code>
 <code><img height="75" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"></code>
 <code><img height="75" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"></code>
